@@ -16,7 +16,7 @@ packages:
     source: hosted
     version: "2.9.0"
   background_fetch:
-    dependency: transitive
+    dependency: "direct main"
     description:
       name: background_fetch
       url: "https://pub.dartlang.org"
