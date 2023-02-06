@@ -1,10 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:table_calendar/table_calendar.dart';
-
-import 'dart:collection';
-
 import './models/Exam.dart';
-
 import './utils.dart';
 
 class TableEventsExample extends StatefulWidget {
